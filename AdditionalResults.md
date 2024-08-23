@@ -18,4 +18,4 @@
 # RESULTS
 ![Episode Returns](boxoutput.png)
 ![Average Return](histoutput.png)
-![Change the number of generated states]](average_return_plot.svg)
+![Change the number of generated states](average_return_plot.svg)
